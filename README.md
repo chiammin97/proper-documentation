@@ -10,7 +10,7 @@ chore: (updating grunt tasks etc; no production code change) <br> <br>
 Ref: http://karma-runner.github.io/0.10/dev/git-commit-msg.html <br> <br>
 
 
-<h1> Basic writing and formatting syntax on GitHub </h1> <br>
+<h1> Basic writing and formatting syntax on GitHub </h1>
 
 Ref: https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax
 
