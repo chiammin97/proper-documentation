@@ -1,5 +1,5 @@
 <h1> How to document Git Commit Messages </h1> 
-feat: (new feature) <br> |
+feat: (new feature) <br>
 fix: (bug fix) <br>
 docs: (changes to documentation) <br>
 style: (formatting, missing semi colons, etc; no code change) <br>
